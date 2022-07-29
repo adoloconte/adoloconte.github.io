@@ -80,20 +80,22 @@ plugins:
 
 nav:
   - index.md
-  - Software Development:
+  - DevOps:
     - Source Control:
-      - GIT: software-development/git.md
+      - GIT: devops/git.md
     - IDE:
-      - Intellij IDEA: software-development/intellij-idea.md
-  - Software Infrastructure:
-    - AWS: software-infrastructure/aws.md
-    - K8S: software-infrastructure/kubernetes.md
+      - Intellij IDEA: devops/intellij-idea.md
+  - Cloud:
+    - AWS: cloud/aws.md
+    - K8S: cloud/kubernetes.md
     - CICD:
-      - software-infrastructure/sample-a.md
-      - Jenkins: software-infrastructure/jenkins.md
-      - Sonarqube: software-infrastructure/sample-a1.md
-      - Fortify: software-infrastructure/sample-a2.md
-      - Feedback: software-infrastructure/sample-b.md
+      - cloud/sample-a.md
+      - Jenkins: cloud/jenkins.md
+      - Sonarqube: cloud/sample-a1.md
+      - Fortify: cloud/sample-a2.md
+  - Philosophy:
+      - Brain: philosophy/sample-b.md
+
 
 
 extra:
