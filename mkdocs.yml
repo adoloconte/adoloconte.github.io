@@ -80,11 +80,6 @@ plugins:
 
 nav:
   - index.md
-  - DevOps:
-    - Source Control:
-      - GIT: devops/git.md
-    - IDE:
-      - Intellij IDEA: devops/intellij-idea.md
   - Cloud:
     - AWS: cloud/aws.md
     - K8S: cloud/kubernetes.md
@@ -93,6 +88,11 @@ nav:
       - Jenkins: cloud/jenkins.md
       - Sonarqube: cloud/sample-a1.md
       - Fortify: cloud/sample-a2.md
+  - DevOps:
+    - Source Control:
+      - GIT: devops/git.md
+    - IDE:
+      - Intellij IDEA: devops/intellij-idea.md
   - Philosophy:
       - Brain: philosophy/sample-b.md
 
