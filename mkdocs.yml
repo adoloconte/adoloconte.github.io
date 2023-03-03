@@ -80,7 +80,7 @@ plugins:
 
 nav:
   - index.md
-  - 2023: paint/20230303.md
+  - Paint: paint/20230303.md
 
 
 extra:
