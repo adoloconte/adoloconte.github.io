@@ -1,7 +1,7 @@
-site_name: Wild Nothing
-repo_name: aloconte/aloconte.github.io
-site_url: https://aloconte.github.io
-repo_url: https://github.com/aloconte/aloconte.github.io
+site_name: Ado Conte
+repo_name: adoloconte/adoloconte.github.io
+site_url: https://adoloconte.github.io
+repo_url: https://github.com/adoloconte/adoloconte.github.io
 theme:
   name: material
   custom_dir: theme
@@ -80,21 +80,7 @@ plugins:
 
 nav:
   - index.md
-  - Cloud:
-    - AWS: cloud/aws.md
-    - K8S: cloud/kubernetes.md
-    - CICD:
-      - cloud/sample-a.md
-      - Jenkins: cloud/jenkins.md
-      - Sonarqube: cloud/sample-a1.md
-      - Fortify: cloud/sample-a2.md
-  - DevOps:
-    - Source Control:
-      - GIT: devops/git.md
-    - IDE:
-      - Intellij IDEA: devops/intellij-idea.md
-  - Philosophy:
-      - Brain: philosophy/sample-b.md
+  - 2023: paint/20230303.md
 
 
 
