@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    
+    <title>Ado Conte</title>
+    
+    <link>https://adoloconte.github.io</link>
+    <atom:link href="https://adoloconte.github.io/yearly.xml" rel="self" type="application/rss+xml"/>
+
+    
+    
+
+    
+    <pubDate>2023-03-03 05:45:50+00:00</pubDate>
+    <ttl>525600</ttl>
+
+    
+    <generator>mkdocs-newsletter - v1.0.1</generator>
+
+    
+    
+    <image><url>None</url><title>Ado Conte</title>
+      <link>https://adoloconte.github.io</link>
+    </image>
+    
+
+    
+    
+    <item><title>2022</title>
+      
+      <description>&lt;article class=&#34;md-content__inner md-typeset&#34;&gt;  &lt;h2 id=&#34;other&#34;&gt;Other&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;New: Introduce the Architecture Decision Records.&lt;/p&gt; &lt;p&gt;&lt;a href=&#34;https://github.com/joelparkerhenderson/architecture_decision_record&#34;&gt;ADR&lt;/a&gt; are short text documents that captures an important architectural decision made along with its context and consequences.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;New: Introduce the pexpect python library.&lt;/p&gt; &lt;p&gt;A pure Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect works like Don Libes’ Expect. Pexpect allows your script to spawn a child application and control it as if a human were typing commands.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;New: Introduce other things.&lt;/p&gt; &lt;p&gt;A pure Python module for spawning child applications; controlling them; and responding to expected patterns in their output. Pexpect works like Don Libes’ Expect. Pexpect allows your script to spawn a child application and control it as if a human were typing commands.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;New: Add global git config to ingore Intellij IDEA generated files.&lt;/p&gt; &lt;/li&gt; &lt;li&gt;Correction: Move files into sub folders and refactor nav.&lt;/li&gt; &lt;li&gt;New: Moved.&lt;/li&gt; &lt;li&gt;Correction: Refactored directories.&lt;/li&gt; &lt;/ul&gt; &lt;hr/&gt;  &lt;/article&gt;</description>
+      <link>https://adoloconte.github.io/newsletter/2022/</link>
+      <pubDate>2023-03-03 05:45:50+00:00</pubDate>
+      <source url="https://adoloconte.github.io/yearly.xml">Ado Conte</source>
+      <guid isPermaLink="true">https://adoloconte.github.io/newsletter/2022/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
